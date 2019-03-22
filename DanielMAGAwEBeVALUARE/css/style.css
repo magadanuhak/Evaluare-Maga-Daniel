@@ -1,0 +1,23 @@
+#container{
+    width: 200px;
+    height:200px;
+}
+.verde{
+    background: red;
+}
+.albastru{
+    background: blue;
+}
+.galben{
+    background: yellow;
+}
+.cerc{
+    background-color:black;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    border-radius: 50%;
+}
+.gray{
+    background: gray;
+}
